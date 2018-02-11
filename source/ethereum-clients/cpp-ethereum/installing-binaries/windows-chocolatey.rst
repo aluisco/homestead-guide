@@ -14,5 +14,5 @@ again in the near future for all the same reasons we support Homebrew on OS X
 and have PPAs for Ubuntu.  For technically competent users, doing
 command-line operations like so would be very convenient: ::
 
-    choco install cpp-ethereum
-    choco update cpp-ethereum
+    choco install ethminer
+    choco update ethminer
